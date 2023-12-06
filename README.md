@@ -24,7 +24,7 @@ This app uses the [OpenWeatherMap API](https://openweathermap.org/) to retrieve 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
+   git clone  https://github.com/tsinghal451/Weather-App.git
 
 2. Navigate to the project folder:
 
