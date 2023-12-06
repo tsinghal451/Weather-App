@@ -69,10 +69,11 @@ const apiKey = 'your_actual_api_key';
 // ... rest of the code
 ```
 
-##Acknowledgments
-Thanks to OpenWeatherMap for providing the weather data API.
+## Acknowledgments
 
-##Aurhor
+ - Thanks to OpenWeatherMap for providing the weather data API.
+
+## Aurhor
 **Tushar Singhal**
 
 
