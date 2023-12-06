@@ -67,10 +67,16 @@ Now, your weather app is configured to fetch weather data using your OpenWeather
 
 const apiKey = 'your_actual_api_key';
 // ... rest of the code
-
-
+```
 
 ##Acknowledgments
+Thanks to OpenWeatherMap for providing the weather data API.
+
+##Aurhor
+**Tushar Singhal**
+
+
+
 
 
 
